@@ -12,6 +12,7 @@ public class AddPlace {
 		// TODO Auto-generated method stub
 
 	//Validating add place is working as expected
+		//thota bhavani
 	//Given---- Input details(we are chaining up query parameters, headers and body)
 		//when--- submit the API(resource and http methods will come in when)
 		//then-- validate the response
